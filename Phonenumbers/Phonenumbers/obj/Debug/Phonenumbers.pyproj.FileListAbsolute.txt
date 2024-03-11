@@ -1,0 +1,12 @@
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\Phonenumbers.exe.config
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\Phonenumbers.exe
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\Phonenumbers.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\IronPython.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\IronPython.Modules.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\Microsoft.Scripting.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\obj\Debug\Phonenumbers.pyprojResolveAssemblyReference.cache
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\obj\Debug\Phonenumbers.MainForm.resources
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\obj\Debug\Phonenumbers.pyproj.GenerateResource.Cache
+C:\Users\esser.s\Documents\SharpDevelop Projects\Phonenumbers\Phonenumbers\obj\Debug\Phonenumbers.exe

@@ -1,0 +1,12 @@
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\Aboutme.exe.config
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\Aboutme.exe
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\Aboutme.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\IronPython.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\IronPython.Modules.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\Microsoft.Scripting.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\obj\Debug\Aboutme.pyprojResolveAssemblyReference.cache
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\obj\Debug\Aboutme.MainForm.resources
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\obj\Debug\Aboutme.pyproj.GenerateResource.Cache
+C:\Users\esser.s\Documents\SharpDevelop Projects\Aboutme\Aboutme\obj\Debug\Aboutme.exe

@@ -1,0 +1,10 @@
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\Craigrules.exe.config
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\Craigrules.exe
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\Craigrules.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\IronPython.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\IronPython.Modules.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\Microsoft.Scripting.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\obj\Debug\Craigrules.pyprojResolveAssemblyReference.cache
+C:\Users\esser.s\Documents\SharpDevelop Projects\Craigrules\Craigrules\obj\Debug\Craigrules.exe

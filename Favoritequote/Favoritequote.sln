@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Favoritequote", "Favoritequote\Favoritequote.pyproj", "{A3D2C561-7CEC-413B-9650-50779409BFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D2C561-7CEC-413B-9650-50779409BFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D2C561-7CEC-413B-9650-50779409BFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D2C561-7CEC-413B-9650-50779409BFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D2C561-7CEC-413B-9650-50779409BFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
