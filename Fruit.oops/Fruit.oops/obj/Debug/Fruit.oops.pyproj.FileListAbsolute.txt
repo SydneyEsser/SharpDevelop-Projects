@@ -1,0 +1,10 @@
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\obj\Debug\Fruit.oops.pyprojResolveAssemblyReference.cache
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\Fruit.oops.exe.config
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\Fruit.oops.exe
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\Fruit.oops.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\IronPython.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\IronPython.Modules.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\Microsoft.Scripting.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\esser.s\Documents\SharpDevelop Projects\Fruit.oops\Fruit.oops\obj\Debug\Fruit.oops.exe
